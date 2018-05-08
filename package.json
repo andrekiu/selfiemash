@@ -1,0 +1,12 @@
+{
+  "name": "yo",
+  "version": "1.0.0",
+  "description": "let's go ",
+  "main": "index.js",
+  "repository": "https://github.com/andrekiu/selfiemash.git",
+  "author": "Andre Quispesaravia <andreq@fb.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
